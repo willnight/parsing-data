@@ -1,0 +1,166 @@
+{
+    "etag": "6-gXhEgc8IFnytkqXKSzMETp7Os",
+    "items": [
+        {
+            "contentDetails": {
+                "activityType": "all",
+                "newItemCount": 0,
+                "totalItemCount": 22
+            },
+            "etag": "7sTf99NepAQnj_7rTHDwuhWKCOQ",
+            "id": "uHnT5usWA5NWhkyerFTwC_wzGh8m0KDm74Xd-YV1208",
+            "kind": "youtube#subscription",
+            "snippet": {
+                "channelId": "UC8QMvQrV1bsK7WO37QpSxSg",
+                "description": "We\u2019ve moved! For all things new with Google for Startups Accelerator, check out and subscribe to Google for Startups: https://www.youtube.com/googleforstartups",
+                "publishedAt": "2020-03-06T00:04:36.004763Z",
+                "resourceId": {
+                    "channelId": "UCorTyjVGM-PV5CCKbosONow",
+                    "kind": "youtube#channel"
+                },
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AAUvwngRe_EV6MnKFnHThzlbun4yUJ5RiGTzP5DqWqYlXw=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AAUvwngRe_EV6MnKFnHThzlbun4yUJ5RiGTzP5DqWqYlXw=s800-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AAUvwngRe_EV6MnKFnHThzlbun4yUJ5RiGTzP5DqWqYlXw=s240-c-k-c0x00ffffff-no-rj"
+                    }
+                },
+                "title": "Google Developers Launchpad"
+            }
+        },
+        {
+            "contentDetails": {
+                "activityType": "all",
+                "newItemCount": 0,
+                "totalItemCount": 535
+            },
+            "etag": "9zW4WMyqN6FI1-66B3MHoBzTdks",
+            "id": "uHnT5usWA5NWhkyerFTwCwkZ5-dYuTCh8iRyqKkPaFo",
+            "kind": "youtube#subscription",
+            "snippet": {
+                "channelId": "UC8QMvQrV1bsK7WO37QpSxSg",
+                "description": "The YouTube channel for all things Firebase! Learn how to build awesome apps with hands-on tutorials from the Firebase team. Firebase helps you build better mobile apps and grow your business.",
+                "publishedAt": "2017-06-14T02:55:12Z",
+                "resourceId": {
+                    "channelId": "UCP4bf6IHJJQehibu6ai__cg",
+                    "kind": "youtube#channel"
+                },
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AAUvwni6auGZNOFo5PfYQUwW4mLmCMRJ1sHXqApbh_fwYw=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AAUvwni6auGZNOFo5PfYQUwW4mLmCMRJ1sHXqApbh_fwYw=s800-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AAUvwni6auGZNOFo5PfYQUwW4mLmCMRJ1sHXqApbh_fwYw=s240-c-k-c0x00ffffff-no-rj"
+                    }
+                },
+                "title": "Firebase"
+            }
+        },
+        {
+            "contentDetails": {
+                "activityType": "all",
+                "newItemCount": 0,
+                "totalItemCount": 5316
+            },
+            "etag": "q0FMch09lSAbvusyqfTRpz9cdyU",
+            "id": "uHnT5usWA5NWhkyerFTwC-6hd1SUIjzPwiMuJ-yZhGE",
+            "kind": "youtube#subscription",
+            "snippet": {
+                "channelId": "UC8QMvQrV1bsK7WO37QpSxSg",
+                "description": "The Google Developers channel features talks from events, educational series, best practices, tips, and the latest updates across our products and platforms.\n\nSubscribe to Google Developers \u2192 https://goo.gle/developers",
+                "publishedAt": "2017-05-19T15:07:24Z",
+                "resourceId": {
+                    "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+                    "kind": "youtube#channel"
+                },
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AAUvwngOju7AKiAvKEs1wtsZN366tyNPyMq3nD8eFkMF7bE=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AAUvwngOju7AKiAvKEs1wtsZN366tyNPyMq3nD8eFkMF7bE=s800-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AAUvwngOju7AKiAvKEs1wtsZN366tyNPyMq3nD8eFkMF7bE=s240-c-k-c0x00ffffff-no-rj"
+                    }
+                },
+                "title": "Google Developers"
+            }
+        },
+        {
+            "contentDetails": {
+                "activityType": "all",
+                "newItemCount": 0,
+                "totalItemCount": 414
+            },
+            "etag": "z1bI8lH07ZYrkIyFJcmGf9QZeVU",
+            "id": "uHnT5usWA5NWhkyerFTwC_Qi248xgh6W89NYyH24LN8",
+            "kind": "youtube#subscription",
+            "snippet": {
+                "channelId": "UC8QMvQrV1bsK7WO37QpSxSg",
+                "description": "Welcome to Blue Pecan's video channel.  Here you will find a collection of useful tutorial videos covering Microsoft Office applications including Microsoft Excel. In the description of videos you will find a link to a supporting page on our website where you will be able to download the files featured in our videos.\n\nIf you need help with your Excel spreadsheets or other documents, please contact us at info@bluepecan.co.uk.  Please provide a detailed description of the work required so that we can accurately quote you.  Any queries arising from the videos on our channel we are also happy to quote for.\n\nVisit our website for details on onsite and online Microsoft Office courses.",
+                "publishedAt": "2021-04-06T03:21:24.924925Z",
+                "resourceId": {
+                    "channelId": "UC79T-BAU24K3xg3BcPXtQ-A",
+                    "kind": "youtube#channel"
+                },
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AAUvwnjJntVIbEEwEb1jHt6Z1h-PidY0-hzvxSy3_4IG5g=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AAUvwnjJntVIbEEwEb1jHt6Z1h-PidY0-hzvxSy3_4IG5g=s800-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AAUvwnjJntVIbEEwEb1jHt6Z1h-PidY0-hzvxSy3_4IG5g=s240-c-k-c0x00ffffff-no-rj"
+                    }
+                },
+                "title": "Chester Tugwell"
+            }
+        },
+        {
+            "contentDetails": {
+                "activityType": "all",
+                "newItemCount": 0,
+                "totalItemCount": 1218
+            },
+            "etag": "FcmtRj4mx-ZTMsB4lbdey3z6Zl4",
+            "id": "uHnT5usWA5NWhkyerFTwC8-_UHr1kBKiuIvcwu640sw",
+            "kind": "youtube#subscription",
+            "snippet": {
+                "channelId": "UC8QMvQrV1bsK7WO37QpSxSg",
+                "description": "Making the web more awesome.",
+                "publishedAt": "2019-03-29T16:17:26.259904Z",
+                "resourceId": {
+                    "channelId": "UCnUYZLuoy1rq1aVMwx4aTzw",
+                    "kind": "youtube#channel"
+                },
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AAUvwniL7QUpTiyGjIpNfk6g7eCkMSB3yjnMS4wkMvY49Q=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AAUvwniL7QUpTiyGjIpNfk6g7eCkMSB3yjnMS4wkMvY49Q=s800-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AAUvwniL7QUpTiyGjIpNfk6g7eCkMSB3yjnMS4wkMvY49Q=s240-c-k-c0x00ffffff-no-rj"
+                    }
+                },
+                "title": "Google Chrome Developers"
+            }
+        }
+    ],
+    "kind": "youtube#SubscriptionListResponse",
+    "nextPageToken": "CAUQAA",
+    "pageInfo": {
+        "resultsPerPage": 5,
+        "totalResults": 16
+    }
+}
