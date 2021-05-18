@@ -3,12 +3,13 @@
 # 2. Написать функцию, которая производит поиск и выводит на экран вакансии с заработной платой больше введённой суммы.
 # 3. Написать функцию, которая будет добавлять в вашу базу данных только новые вакансии с сайта.
 
-import pandas as pd
 import requests
 from bs4 import BeautifulSoup as bs
 import pymongo
 from pprint import pprint
 import hashlib
+import warnings
+warnings.filterwarnings("ignore", category=DeprecationWarning)
 
 superjob_name = 'superjob.ru'
 hh_name = 'hh.ru'
@@ -27,6 +28,7 @@ hh_collection = db['hh_collection']
 
 # superjob_collection.delete_many({})
 # hh_collection.delete_many({})
+
 
 def get_vacancy_money_range(text, source):
     if text is None:
@@ -119,6 +121,7 @@ def parse_data(source):
                 'ссылка': f'<a target="_blank" href="{vacancy_url}">{vacancy_url}</a>',
                 'источник': source,
                 'hash': vacancy_hash}
+
         if source == hh_name:
             if hh_collection.find({'hash': vacancy_hash}).count() < 1:
                 hh_collection.insert_one(data)
@@ -129,11 +132,20 @@ def parse_data(source):
         result_data_grid.append(data)
     return result_data_grid
 
+
+def get_vacancy_from_salary(collection, value):
+    return collection.find({'$or': [{'ЗП от': {'$gt': value}}, {'ЗП до': {'$gt': value}}]})
+
+
 parse_data(hh_name)
 parse_data(superjob_name)
 
-pprint(hh_collection.count_documents({}))
-pprint(superjob_collection.count_documents({}))
+print(f'Размер {hh_collection.name}: {hh_collection.count_documents({})}')
+print(f'Размер {superjob_collection.name}: {superjob_collection.count_documents({})}')
+
+salary = int(input("Введите сумму ЗП для фильтрации (отобразится все, что больше суммы): "))
+for i in get_vacancy_from_salary(hh_collection, salary):
+    pprint(i)
 
 # для первого задания:
 # superjob_collection = db['superjob_collection']
